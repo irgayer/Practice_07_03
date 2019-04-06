@@ -1,0 +1,10 @@
+C:\Users\вава\source\repos\Practice_07_03\Practice_07_03.Console\bin\Debug\Practice_07_03.Console.exe.config
+C:\Users\вава\source\repos\Practice_07_03\Practice_07_03.Console\bin\Debug\Practice_07_03.Console.exe
+C:\Users\вава\source\repos\Practice_07_03\Practice_07_03.Console\bin\Debug\Practice_07_03.Console.pdb
+C:\Users\вава\source\repos\Practice_07_03\Practice_07_03.Console\bin\Debug\Practice_07_03.ClassLib.dll
+C:\Users\вава\source\repos\Practice_07_03\Practice_07_03.Console\bin\Debug\Practice_07_03.ClassLib.pdb
+C:\Users\вава\source\repos\Practice_07_03\Practice_07_03.Console\obj\Debug\Practice_07_03.SerializConsolApp.csprojAssemblyReference.cache
+C:\Users\вава\source\repos\Practice_07_03\Practice_07_03.Console\obj\Debug\Practice_07_03.SerializConsolApp.csproj.CoreCompileInputs.cache
+C:\Users\вава\source\repos\Practice_07_03\Practice_07_03.Console\obj\Debug\Practice_07_03.SerializConsolApp.csproj.CopyComplete
+C:\Users\вава\source\repos\Practice_07_03\Practice_07_03.Console\obj\Debug\Practice_07_03.Console.exe
+C:\Users\вава\source\repos\Practice_07_03\Practice_07_03.Console\obj\Debug\Practice_07_03.Console.pdb

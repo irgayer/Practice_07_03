@@ -1,0 +1,6 @@
+C:\Users\вава\source\repos\Practice_07_03\Practice_07_03.ClassLib\bin\Debug\Practice_07_03.ClassLib.dll
+C:\Users\вава\source\repos\Practice_07_03\Practice_07_03.ClassLib\bin\Debug\Practice_07_03.ClassLib.pdb
+C:\Users\вава\source\repos\Practice_07_03\Practice_07_03.ClassLib\obj\Debug\Practice_07_03.ClassLib.csprojAssemblyReference.cache
+C:\Users\вава\source\repos\Practice_07_03\Practice_07_03.ClassLib\obj\Debug\Practice_07_03.ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\вава\source\repos\Practice_07_03\Practice_07_03.ClassLib\obj\Debug\Practice_07_03.ClassLib.dll
+C:\Users\вава\source\repos\Practice_07_03\Practice_07_03.ClassLib\obj\Debug\Practice_07_03.ClassLib.pdb
